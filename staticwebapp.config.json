@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "/api",
+      "methods": [
+        "get"
+      ],
+      "redirect": "https://www.microsoft.com/ja-jp/"
+    }
+  ]
+}
